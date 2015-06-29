@@ -1,0 +1,25 @@
+.box-padding {
+	padding: 20px;
+}
+
+.header-box {
+	background-color: #7374C2;
+}
+
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
+
+.nav-header {
+	margin: inherit;
+	margin-left: 20px;
+	height: inherit;
+	display: inline;
+	vertical-align: middle;
+}
